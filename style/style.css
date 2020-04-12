@@ -71,10 +71,10 @@ body{
     flex-direction: column;
     justify-content: flex-end;
     font-size: 18px;
+    max-height: 100px;
 }
 .terminal-history{
     display: block;
-    max-height: 100px !important;
     overflow: hidden;
 }
 
